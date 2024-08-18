@@ -1,1 +1,1 @@
-# jina_tokenizer_regex_python
+Converted python script for the Jina Tokenizer regex pattern
